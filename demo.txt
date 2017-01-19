@@ -1,0 +1,11 @@
+Scientists have built a DNA-analysing smartphone attachment that is a fraction of the cost of lab-based kit.
+The creators of the phone-powered pathology microscope believe it could be mass produced for less than $500 (£406) a unit.
+They say it could help doctors treat cancer, tuberculosis and other diseases more effectively than is sometimes possible in the developing world.
+But a UK firm says it is developing a more advanced and cheaper alternative.
+Details of the peer-reviewed project are published in the journal Nature Communications.
+Drug resistance
+The prototype microscope attachment was 3D-printed and developed as a joint effort by the University of California, Stockholm University and Uppsala University.
+One of the researchers involved said the tech could help medics examine tissue samples without having to send them to what might be a remote laboratory.
+"It can use the information that is carried in our DNA to make diagnoses," Prof Mats Nilsson told the BBC.
+"There are two main areas where this is done today.
+"In cancer, where certain mutations in tumours confer resistance to drugs, it can be used to prescribe the right treatments.

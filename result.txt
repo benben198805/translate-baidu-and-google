@@ -1,0 +1,98 @@
+original:
+Scientists have built a DNA-analysing smartphone attachment that is a fraction of the cost of lab-based kit.
+
+google:
+
+
+baidu:
+科学家已经建立了一个DNA分析智能手机附件，这是一个部分成本的实验室为基础的套件。
+
+original:
+The creators of the phone-powered pathology microscope believe it could be mass produced for less than $500 (£406) a unit.
+
+google:
+
+
+baidu:
+对手机供电的病理显微镜的发明者相信它可以大规模生产的不到500美元（£406）单位。
+
+original:
+They say it could help doctors treat cancer, tuberculosis and other diseases more effectively than is sometimes possible in the developing world.
+
+google:
+
+
+baidu:
+他们说，它可以帮助医生更有效地治疗癌症，结核病和其他疾病，有时可能在发展中国家。
+
+original:
+But a UK firm says it is developing a more advanced and cheaper alternative.
+
+google:
+
+
+baidu:
+但一家英国公司表示，它正在开发一种更先进和更便宜的替代品.。
+
+original:
+Details of the peer-reviewed project are published in the journal Nature Communications.
+
+google:
+
+
+baidu:
+同行评审项目的细节刊登在自然通讯杂志上.。
+
+original:
+Drug resistance
+
+google:
+
+
+baidu:
+耐药性
+
+original:
+The prototype microscope attachment was 3D-printed and developed as a joint effort by the University of California, Stockholm University and Uppsala University.
+
+google:
+
+
+baidu:
+原型显微镜附件的3D打印和发展的共同努力，加利福尼亚大学，斯德哥尔摩大学和乌普萨拉大学。
+
+original:
+One of the researchers involved said the tech could help medics examine tissue samples without having to send them to what might be a remote laboratory.
+
+google:
+
+
+baidu:
+参与调查的研究人员之一的技术可以帮助医生说检查的组织样本无需送什么可能是一个远程实验室。
+
+original:
+"It can use the information that is carried in our DNA to make diagnoses," Prof Mats Nilsson told the BBC.
+
+google:
+
+
+baidu:
+Prof Mats Nilsson告诉英国广播公司：“它可以利用我们DNA中携带的信息进行诊断。”。
+
+original:
+"There are two main areas where this is done today.
+
+google:
+
+
+baidu:
+今天有两个主要领域。
+
+original:
+"In cancer, where certain mutations in tumours confer resistance to drugs, it can be used to prescribe the right treatments.
+
+google:
+
+
+baidu:
+“在肿瘤中，某些肿瘤的突变赋予药物抵抗力，它可以被用来确定正确的治疗方法。
